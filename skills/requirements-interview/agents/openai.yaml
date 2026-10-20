@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求访谈"
+  short_description: "通过每轮少量提问，将 APP、网页或小工具的初步想法整理成开发说明文档"
+  default_prompt: "请使用 $requirements-interview，通过分轮需求访谈完善我的初步想法，最后生成可指导开发的说明文档："
